@@ -1,0 +1,24 @@
+{
+"products" : [
+  {"id":1,"name":"American bighorn sheep","category":"Goldenrod"},
+  {"id":2,"name":"Vulture, egyptian","category":"Khaki"},
+  {"id":3,"name":"Ferret, black-footed","category":"Yellow"},
+  {"id":4,"name":"Long-tailed jaeger","category":"Yellow"},
+  {"id":5,"name":"Squirrel, indian giant","category":"Mauv"},
+  {"id":6,"name":"Asian elephant","category":"Goldenrod"},
+  {"id":7,"name":"Black-faced kangaroo","category":"Goldenrod"},
+  {"id":8,"name":"Sifaka, verreaux's","category":"Purple"},
+  {"id":9,"name":"Blackish oystercatcher","category":"Fuscia"},
+  {"id":10,"name":"Possum, common brushtail","category":"Pink"},
+  {"id":11,"name":"Kingfisher, pied","category":"Aquamarine"},
+  {"id":12,"name":"Wombat, common","category":"Turquoise"},
+  {"id":13,"name":"Pintail, bahama","category":"Aquamarine"},
+  {"id":14,"name":"Marten, american","category":"Yellow"},
+  {"id":15,"name":"Spider, wolf","category":"Blue"},
+  {"id":16,"name":"Common long-nosed armadillo","category":"Red"},
+  {"id":17,"name":"Sugar glider","category":"Red"},
+  {"id":18,"name":"Komodo dragon","category":"Teal"},
+  {"id":19,"name":"Spotted wood sandpiper","category":"Orange"},
+  {"id":20,"name":"Hawk, red-tailed","category":"Khaki"}
+ ]
+}
